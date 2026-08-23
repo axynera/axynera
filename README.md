@@ -50,6 +50,14 @@
 
 <br/>
 
+<!-- SYSTEM VISITS COUNTER -->
+<div align="center">
+  <h4>📟 SYSTEM VISITS</h4>
+  <img src="https://komarev.com/ghpvc/?username=axynera&color=00f2fe&style=cyberpunk&label=SYSTEM+VISITS" alt="Visitor Counter" />
+</div></div>
+
+<br/>
+
 <!-- STREAK STATS & GENERAL ANALYTICS -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=axynera&theme=cyan&hide_border=true&background=0D1117" width="49%" alt="Streak Stats" />
