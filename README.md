@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Wave Header -->
+  <!-- Header Banner Cyberpunk -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:002b36,100:00f2fe&height=200&section=header&text=SYSTEM:%20AXYNERA%20PROFILE&fontSize=50&fontColor=00f2fe&animation=twinkling&desc=INITIALIZING%20MULTI-LAYERED%20INTERFACE%20%5BOK%5D&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header" />
 
   <br/><br/>
 
-  <!-- Multi-line Typing Animation -->
+  <!-- Typing SVG Terminal -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=100&lines=%2F%2F+LOADING+CORE+MODULES...;%3E%3E+STATING+UPDATES...;%2F%2F+REALTIME+UPDATES+ONLINE;%3E%3E+CONNECTED+TO+CYBER-SPACE" alt="Terminal Typing" />
   </a>
 
   <br/><br/>
 
-  <!-- Status & License Badges -->
+  <!-- Badges Futuristic Shield -->
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-MIT-00f2fe?style=for-the-badge&logo=open-source-initiative&logoColor=black" alt="License" />
   </a>
@@ -42,26 +42,6 @@
 
 ---
 
-<!-- DASHBOARD GRID LAYOUT -->
-<table border="0" width="100%">
-  <tr>
-    <!-- Left: Snake Activity & Commit History -->
-    <td width="65%" valign="top">
-      <h4 align="center">🟢 NETWORK ACTIVITY & SNAKE GRAPH</h4>
-      <a href="https://github.com/axynera">
-        <img src="https://raw.githubusercontent.com/axynera/axynera/output/github-contribution-grid-snake-dark.svg" alt="Snake Activity Graph" width="100%" />
-      </a>
-    </td>
-    <!-- Right: Donut Chart Languages & Focus -->
-    <td width="35%" valign="top">
-      <h4 align="center">📊 PROJECT FOCUS</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axynera&layout=donut&theme=cyan&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" alt="Language Donut Chart" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- SYSTEM READOUT (ACTIVITY GRAPH) -->
 <div align="center">
   <h4>📈 SYSTEM READOUT & COMMIT METRICS</h4>
@@ -73,13 +53,13 @@
 <!-- STREAK STATS & GENERAL ANALYTICS -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=axynera&theme=cyan&hide_border=true&background=0D1117" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=axynera&show_icons=true&theme=cyan&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="49%" alt="General Stats" />
+  <img src="https://github-readme-stats.github.io/api?username=axynera&show_icons=true&theme=cyan&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="49%" alt="General Stats" />
 </div>
 
 <br/>
 
-<!-- SYSTEM VISITS ODOMETER / COUNTER -->
+<!-- SYSTEM VISITS COUNTER -->
 <div align="center">
   <h4>📟 SYSTEM VISITS</h4>
-  <img src="https://profile-counter.glitch.me/axynera/count.svg" alt="Visitor Counter Odometer" />
+  <img src="https://komarev.com/ghpvc/?username=axynera&color=00f2fe&style=cyberpunk&label=SYSTEM+VISITS" alt="Visitor Counter" />
 </div>
